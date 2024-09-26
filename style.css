@@ -12,7 +12,7 @@ body {
   margin-top:-1cm;
   padding-top: 2cm;
   padding-bottom: 2cm;
-  height: 5mm;
+  height: 10mm;
  }
 
 .topmenu {
@@ -37,7 +37,7 @@ body {
 .profile_name {
   float: left;
   padding-left: 2cm;
-  color: aquamarine;
+  color: white;
   font-size: 30px;
 }
 
